@@ -1,0 +1,5 @@
+instalas python
+en la consola instalas con pip install pypinstaller
+te metes con cd en la carpeta donde este el archivo que quieras usar
+pyinstaller --windowed nombre archivo.pyinstaller
+y en la carpeta dist esta el ejecutable (.exe)
